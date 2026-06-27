@@ -114,7 +114,7 @@ escrow-dapp/
 ### 1. Kloniranje i instalacija
 
 ```bash
-git clone https://github.com/tvoje-korisnicko-ime/escrow-dapp.git
+git clone https://AnitaCloudTech/decentralized-escrow-arbitration-dapp.git
 cd escrow-dapp
 npm install
 ```
