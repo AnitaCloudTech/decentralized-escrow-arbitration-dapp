@@ -371,14 +371,6 @@ escrow-dapp/
 
 ---
 
-## Bodovanje
-
-| Kriterijum | Poeni |
-|------------|-------|
-| Pametni ugovor + deployment na Sepolia | 9/9 |
-| Web3/React integracija i frontend | 7/7 |
-| Unit testovi + end-to-end provera | 4/4 |
-| **Ukupno** | **20/20** |
 
 ---
 
